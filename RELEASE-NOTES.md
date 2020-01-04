@@ -1,3 +1,14 @@
+## ChangeLog v0.2.4 (20191128)
+
++ Fixed major bug causing https://github.com/biod/sambamba/issues/393
++ Fixed dub and make files
++ Dub test still fails because of GC
++ Debian package on the way (thanks https://github.com/atille https://github.com/biod/BioD/issues/50)
+
+## ChangeLog v0.2.3 (20191119)
+
++ Compiles and tests pass on Debian with dub and ldc 1.17.0
+
 ## ChangeLog v0.2.2 (20190316)
 
 + Restored make so we can compile without dub
